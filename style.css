@@ -1,0 +1,24 @@
+.conatiner{
+    max-width: 300px;
+    margin: 40px auto;
+    padding: 10px;
+    background-color: antiquewhite;
+    border: #333;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+
+#clock {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 30px;
+   background-color: rgb(255, 229, 194);
+   margin: auto 50px;
+   border: none;
+   border-radius: 8px;
+}
+h1{
+    text-align: center;
+}
